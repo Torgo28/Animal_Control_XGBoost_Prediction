@@ -65,6 +65,7 @@ The original dataset contained over 152,000 entries with 38 attributes. Signific
 
 ## Model Architecture
 
+```text
 Animal Control Incident
           ↓
     Feature Vector
@@ -81,6 +82,7 @@ Response Time Prediction
           ↓
 Resource Allocation &
 Operational Planning
+```
 
 ## Dependencies
 
