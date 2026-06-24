@@ -35,7 +35,7 @@ Although the ensemble achieved slightly better performance, XGBoost was selected
 
 ### Prediction Analysis
 
-![Animal_Control_XGBoost_Prediction](images/prediction_analysis.png)
+![Animal_Control_XGBoost_Prediction](Images/prediction_analysis.png)
 
 ## Key Features
 
